@@ -17,7 +17,7 @@ const config = {
     },
     
     // Plugin Repository URL
-    PLUGIN_REPO_URL: 'https://github.com/AHMIIXMD/AIXAHMADXNIAZI/archive/refs/heads/main.zip',
+    PLUGIN_REPO_URL: 'https://github.com/aaqil0009/-/archive/refs/heads/main.zip',
     
     // Status React Emojis
     STATUS_REACT_EMOJIS: ['🌟', '✨', '🔥', '⚡', '💥', '🎯'],

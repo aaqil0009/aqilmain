@@ -60,7 +60,7 @@ const config = {
     
     // Bot Identity
     BOT_NAME: '𝘼𝘼𝙌𝙄𝙇 𝙈𝘿🏴',
-    OWNER_NAME: '𝘼𝘼𝙌𝙄𝙇 𝙈𝘿🏴',
+    OWNER_NAME: '𝘼𝘼𝙌𝙄𝙇 𝙆𝙃𝘼𝙉',
     OWNER_NUMBER: '923143177636',
     DEV: '923143177636',
     IK_IMAGE_PATH: './lib/ahmadmd.jpg',
@@ -115,7 +115,7 @@ const config = {
         
         // Bot Identity
         VERSION: '7.0.0 Bᴇᴛᴀ',
-        OWNER_NAME: '𝘼𝘼𝙌𝙄𝙇 𝙈𝘿🏴',
+        OWNER_NAME: '𝘼𝘼𝙌𝙄𝙇 𝙆𝙃𝘼𝙉',
         OWNER_NUMBER: '923143177636',
         DEV: '923143177636',
         DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝘼𝘼𝙌𝙄𝙇 𝙈𝘿🏴*',
